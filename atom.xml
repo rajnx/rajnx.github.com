@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Xdemy]]></title>
+  <link href="http://rajnx.github.io/atom.xml" rel="self"/>
+  <link href="http://rajnx.github.io/"/>
+  <updated>2014-07-08T16:54:51-07:00</updated>
+  <id>http://rajnx.github.io/</id>
+  <author>
+    <name><![CDATA[Rajneesh]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress: Easy Information, Help and Commands!]]></title>
+    <link href="http://rajnx.github.io/blog/2014/07/08/octopress-info-links/"/>
+    <updated>2014-07-08T15:38:11-07:00</updated>
+    <id>http://rajnx.github.io/blog/2014/07/08/octopress-info-links</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
