@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Xdemy]]></title>
+  <link href="http://rajnx.github.io/atom.xml" rel="self"/>
+  <link href="http://rajnx.github.io/"/>
+  <updated>2014-07-09T22:42:53-07:00</updated>
+  <id>http://rajnx.github.io/</id>
+  <author>
+    <name><![CDATA[rajnx]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress: Easy Information, Help and Commands!]]></title>
+    <link href="http://rajnx.github.io/blog/2014/07/08/octopress-info-links/"/>
+    <updated>2014-07-08T15:38:11-07:00</updated>
+    <id>http://rajnx.github.io/blog/2014/07/08/octopress-info-links</id>
+    <content type="html"><![CDATA[<p>Some of the starters links to get help and really understand Octopress</p>
+
+<ul>
+<ul>
+<li><a href="http://www.tomordonez.com/blog/2013/03/12/rake-commands-in-octopress-on-github/">http://www.tomordonez.com/blog/2013/03/12/rake-commands-in-octopress-on-github/</a> </li>
+<li><a href="http://octopress.org/docs/blogging/linklog/">http://octopress.org/docs/blogging/linklog/</a> </li>
+<li><a href="http://octopress.org/docs/blogging/">http://octopress.org/docs/blogging/</a> </li>
+</ul>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
